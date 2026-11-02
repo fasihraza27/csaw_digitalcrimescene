@@ -1,0 +1,6 @@
+{
+  "name": "Digital Crime Scene — Case #007",
+  "description": "Interactive cybersecurity investigation stall experience for SEASAW Cybersecurity Society. Analyze digital evidence, reconstruct the breach timeline, and respond to account compromise.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
